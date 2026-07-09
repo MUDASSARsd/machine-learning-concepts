@@ -1,4 +1,3 @@
-# machine-learning-concepts
 # Machine Learning Concepts From Scratch
 
 Welcome to the **machine-learning-concepts** repository! This project is a hands-on, self-paced guide dedicated to implementing fundamental machine learning algorithms completely from scratch using Python and NumPy. 
